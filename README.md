@@ -1,13 +1,13 @@
-# 📦 Streamlit App Starter Kit 
+#  Machine Learning App(Penguin Dataset) 
 ```
-⬆️ (Replace above with your app's name)
+This is a machine learning app
 ```
 
 Description of the app ...
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://Penguin.streamlit.app/)
 
 ## GitHub Codespaces
 
